@@ -1,0 +1,7 @@
+# Default ignored files
+/GettingStarted.iws
+
+# Project exclude paths
+/helloworld-ejb3/build/
+/helloworld-jpa/build/
+/helloworld-native/build/
